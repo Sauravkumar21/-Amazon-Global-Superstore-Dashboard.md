@@ -1,7 +1,6 @@
 # -Amazon-Global-Superstore (End-to-End) Analysis Project
+  <img width="604" alt="Screenshot 2024-04-17 190604" src="https://github.com/user-attachments/assets/c776ce10-0a8b-4bf1-960f-4a6b54ade117" />
 
-  "D:\powerbi details\Amazon global superstore\AMAZON GLOBAL SUPERSTORE PDF.pdf"
-  
 ### Key Highlights
 1. Connected to various data sources such as Excel, SQL databases, and web data, demonstrating versatility in data acquisition.
 2. Analyzed extensive datasets, established relationships between data tables, and transformed data to derive insights.
